@@ -8,7 +8,7 @@
 
  example.rkt: Aqui tem alguns exemplos de uso
 
- ### English 
+ ### International 
 
  `#lang grego` is a language made in Racket based on the `stacker` language that we see in "Beautiful Racket" (https://beautifulracket.com/stacker/the-reader.html)
 
